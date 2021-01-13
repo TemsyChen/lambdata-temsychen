@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: temsychen
+Version: 0.0.1
+Summary: A collection of data science functions
+Home-page: https://github.com/TemsyChen/lambdata-temsychen
+Author: temsychen
+Author-email: temsy.chen@gmail.com
+License: UNKNOWN
+Description: # lambdata-temsychen
+        A package created in Lambda School Unit 3 Sprint 1 Module 1 to learn about packages
+        
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
