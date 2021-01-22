@@ -6,8 +6,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="temsychen", # Replace with your own username
-    version="0.0.1",
+    name="lambdata_temsychen", # Replace with your own username
+    version="0.0.2",
     author="temsychen",
     author_email="temsy.chen@gmail.com",
     description="A collection of data science functions",

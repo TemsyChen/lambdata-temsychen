@@ -1,7 +1,9 @@
 README.md
 setup.py
-lambdata-temsychen/__init__.py
-lambdata-temsychen/example_module.py
+lambdata_temsychen/__init__.py
+lambdata_temsychen/car.py
+lambdata_temsychen/helper_functions.py
+lambdata_temsychen/oop_example.py
 temsychen.egg-info/PKG-INFO
 temsychen.egg-info/SOURCES.txt
 temsychen.egg-info/dependency_links.txt
