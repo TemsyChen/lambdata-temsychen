@@ -1,13 +1,33 @@
 Metadata-Version: 2.1
 Name: lambdata-temsychen
-Version: 0.0.2
+Version: 0.0.3
 Summary: A collection of data science functions
 Home-page: https://github.com/TemsyChen/lambdata-temsychen
-Author: temsychen
+Author: Temsy Chen
 Author-email: temsy.chen@gmail.com
 License: UNKNOWN
-Description: # lambdata-temsychen
-        A package created in Lambda School Unit 3 Sprint 1 Module 1 to learn about packages
+Description: # lambdata_temsychen
+        
+        ## What is it?
+        
+        A package created in Lambda School Unit 3 Sprint 1 Module 1 to learn about packages. There is one package "helper_functions".
+        
+        ## Main Features
+        
+        Helper_functions has the following functions:
+          - null_count - returns how many NaN's there are in a dataframe.
+          - train_split - creates a test train split from one dataframe and the fraction that you want the train dataset to be from the original dataframe.
+          - randomize - shuffles the rows randomly from a dataset.
+        
+        ## Where to get it
+        
+        The source is currently hosted on Github at:
+        https://github.com/temsychen/lambdata-temsychen
+        
+        ## Dependencies
+        
+        Pandas
+        Scikit-learn
         
 Platform: UNKNOWN
 Classifier: Programming Language :: Python :: 3

@@ -7,8 +7,8 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="lambdata_temsychen", # Replace with your own username
-    version="0.0.2",
-    author="temsychen",
+    version="0.0.3",
+    author="Temsy Chen",
     author_email="temsy.chen@gmail.com",
     description="A collection of data science functions",
     long_description=long_description,
